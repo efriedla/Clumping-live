@@ -1,0 +1,1 @@
+import{t as e}from"./jsx-runtime-DKe-klnU.js";import{t}from"./createSvgIcon-DMw24i9W.js";var n=t((0,e().jsx)(`path`,{d:`M8 5v14l11-7z`}),`PlayArrow`);export{n as t};
