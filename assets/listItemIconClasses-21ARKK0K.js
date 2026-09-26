@@ -1,0 +1,1 @@
+import{a as e,o as t}from"./createSvgIcon-wd-5TenK.js";function n(e){return t(`MuiListItemIcon`,e)}var r=e(`MuiListItemIcon`,[`root`,`alignItemsFlexStart`]);export{r as n,n as t};

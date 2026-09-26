@@ -1,0 +1,1 @@
+import{c as e,n as t}from"./jsx-runtime-DKe-klnU.js";var n=e(t()),r=n.createContext(void 0);function i(){return n.useContext(r)}export{r as n,i as t};

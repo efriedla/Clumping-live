@@ -1,0 +1,1 @@
+import{c as e,n as t}from"./jsx-runtime-DKe-klnU.js";var n=e(t()),r=typeof window<`u`?n.useLayoutEffect:n.useEffect;export{r as t};

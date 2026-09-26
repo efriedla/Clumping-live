@@ -1,0 +1,1 @@
+import{t as e}from"./jsx-runtime-DKe-klnU.js";import{t}from"./createSvgIcon-wd-5TenK.js";var n=t((0,e().jsx)(`path`,{d:`M19 13H5v-2h14z`}),`Remove`);export{n as t};

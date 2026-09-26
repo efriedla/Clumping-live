@@ -1,0 +1,1 @@
+import{t as e}from"./useEnhancedEffect-BEus2o7U.js";import{o as t}from"./Modal-PunqFGGu.js";import{t as n}from"./ownerDocument-CGAcyNP_.js";function r(e,t=166){let n;function r(...r){clearTimeout(n),n=setTimeout(()=>{e.apply(this,r)},t)}return r.clear=()=>{clearTimeout(n)},r}var i=r,a=n,o=t,s=e;export{r as a,i,o as n,a as r,s as t};

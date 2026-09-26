@@ -1,0 +1,1 @@
+function e(e){return`/Clumping-live/${e.replace(/^\//,``)}`}export{e as t};
