@@ -1,0 +1,1 @@
+import{o as e}from"./chunk-zsgVPwQN.js";import{n as t}from"./jsx-runtime-CWntqZRF.js";var n=e(t()),r=typeof window<`u`?n.useLayoutEffect:n.useEffect;export{r as t};

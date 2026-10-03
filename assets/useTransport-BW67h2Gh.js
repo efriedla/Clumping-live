@@ -1,0 +1,1 @@
+import"./useGameTransport-DwzLM_g-.js";import{n as e}from"./useWebRTCTransport-CI0C-UMq.js";function t(t){return e(t)}export{t};
