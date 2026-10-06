@@ -1,0 +1,1 @@
+import{o as e}from"./chunk-zsgVPwQN.js";import{n as t}from"./jsx-runtime-CWntqZRF.js";var n=e(t());function r(e,t){return n.isValidElement(e)&&t.indexOf(e.type.muiName??e.type?._payload?.value?.muiName)!==-1}var i=r;export{i as t};

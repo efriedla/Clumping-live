@@ -1,0 +1,1 @@
+var e={red:`veil`,orange:`prism-1`,yellow:`pinwheel`,green:`prism-2`,blue:`prism-3`,purple:`squiggle`,pink:`flash-3`,brown:`suspension`},t=`dotted-spiral`,n=`confetti`;export{e as n,t as r,n as t};

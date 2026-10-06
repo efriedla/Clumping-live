@@ -1,0 +1,1 @@
+import{d as e}from"./Modal-DcAGzAlJ.js";function t(e,t=166){let n;function r(...r){clearTimeout(n),n=setTimeout(()=>{e.apply(this,r)},t)}return r.clear=()=>{clearTimeout(n)},r}var n=t,r=e;export{n,t as r,r as t};

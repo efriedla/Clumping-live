@@ -1,0 +1,1 @@
+.pm{flex-direction:column;gap:10px;min-width:0;display:flex}.pm-band{flex-direction:column;font-size:.85rem;display:flex}.pm-preview{border:1px solid var(--cp-border);background:var(--cp-sunken);border-radius:8px;width:100%;height:auto}.pm-check{cursor:pointer;align-items:center;gap:8px;font-size:.85rem;display:flex}
