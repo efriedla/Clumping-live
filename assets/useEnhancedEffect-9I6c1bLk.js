@@ -1,0 +1,1 @@
+import{d as e}from"./Modal-DwHulnQK.js";import{t}from"./useEnhancedEffect-YF3PtDCF.js";import{t as n}from"./ownerDocument-CGAcyNP_.js";function r(e,t=166){let n;function r(...r){clearTimeout(n),n=setTimeout(()=>{e.apply(this,r)},t)}return r.clear=()=>{clearTimeout(n)},r}var i=r,a=n,o=e,s=t;export{r as a,i,o as n,a as r,s as t};
