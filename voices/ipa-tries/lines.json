@@ -1,0 +1,401 @@
+{
+ "version": 1,
+ "sentences": [
+  {
+   "key": "18u4xrz",
+   "text": "[a](/æː/)."
+  },
+  {
+   "key": "0mxxlrb",
+   "text": "Ay. Apple. [a](/æː/)."
+  },
+  {
+   "key": "1cyozkg",
+   "text": "[e](/ɛː/)."
+  },
+  {
+   "key": "1oa8t6x",
+   "text": "Ee. Egg. [e](/ɛː/)."
+  },
+  {
+   "key": "1v40t1f",
+   "text": "[i](/ɪː/)."
+  },
+  {
+   "key": "0ju183q",
+   "text": "Eye. Igloo. [i](/ɪː/)."
+  },
+  {
+   "key": "1kxi4pc",
+   "text": "[o](/ɑː/)."
+  },
+  {
+   "key": "1ynhn7e",
+   "text": "Oh. Octopus. [o](/ɑː/)."
+  },
+  {
+   "key": "0xwaszp",
+   "text": "[u](/ʌː/)."
+  },
+  {
+   "key": "0clk1jk",
+   "text": "You. Umbrella. [u](/ʌː/)."
+  },
+  {
+   "key": "0bsfn0m",
+   "text": "[s](/sːː/)."
+  },
+  {
+   "key": "0y37210",
+   "text": "Sad. [s](/sːː/). Sad."
+  },
+  {
+   "key": "1bba8wi",
+   "text": "[t](/t/)."
+  },
+  {
+   "key": "13ajl5i",
+   "text": "Tap. [t](/t/). Tap."
+  },
+  {
+   "key": "0fni8ru",
+   "text": "[p](/p/)."
+  },
+  {
+   "key": "1k8iev6",
+   "text": "Pan. [p](/p/). Pan."
+  },
+  {
+   "key": "1vu19ju",
+   "text": "[n](/nːː/)."
+  },
+  {
+   "key": "1q0a7ju",
+   "text": "Nap. [n](/nːː/). Nap."
+  },
+  {
+   "key": "1cyeudy",
+   "text": "[m](/mːː/)."
+  },
+  {
+   "key": "1q1qi5g",
+   "text": "Map. [m](/mːː/). Map."
+  },
+  {
+   "key": "1qv879u",
+   "text": "[d](/d/)."
+  },
+  {
+   "key": "104vmni",
+   "text": "Dad. [d](/d/). Dad."
+  },
+  {
+   "key": "0ts3s0c",
+   "text": "[g](/ɡ/)."
+  },
+  {
+   "key": "1e4gnke",
+   "text": "Get. [g](/ɡ/). Get."
+  },
+  {
+   "key": "07w6voe",
+   "text": "[c](/k/)."
+  },
+  {
+   "key": "1wetfto",
+   "text": "Cat. [c](/k/). Cat."
+  },
+  {
+   "key": "15v1fom",
+   "text": "[k](/k/)."
+  },
+  {
+   "key": "0czvpjo",
+   "text": "Kit. [k](/k/). Kit."
+  },
+  {
+   "key": "1nnzsgp",
+   "text": "[r](/ɹːː/)."
+  },
+  {
+   "key": "12n46mz",
+   "text": "Rat. [r](/ɹːː/). Rat."
+  },
+  {
+   "key": "0th8nvu",
+   "text": "[h](/h/)."
+  },
+  {
+   "key": "1p3ei5a",
+   "text": "Hat. [h](/h/). Hat."
+  },
+  {
+   "key": "1y17jia",
+   "text": "[b](/b/)."
+  },
+  {
+   "key": "18eo2pe",
+   "text": "Bat. [b](/b/). Bat."
+  },
+  {
+   "key": "1762tzu",
+   "text": "[f](/fːː/)."
+  },
+  {
+   "key": "1y02r92",
+   "text": "Fan. [f](/fːː/). Fan."
+  },
+  {
+   "key": "0p8q7ky",
+   "text": "[l](/lːː/)."
+  },
+  {
+   "key": "17k8sv2",
+   "text": "Lip. [l](/lːː/). Lip."
+  },
+  {
+   "key": "01apnbe",
+   "text": "[j](/dʒ/)."
+  },
+  {
+   "key": "036ehig",
+   "text": "Jam. [j](/dʒ/). Jam."
+  },
+  {
+   "key": "1giye1m",
+   "text": "[v](/vːː/)."
+  },
+  {
+   "key": "19c5xli",
+   "text": "Van. [v](/vːː/). Van."
+  },
+  {
+   "key": "1jezcs6",
+   "text": "[w](/w/)."
+  },
+  {
+   "key": "0f68hi4",
+   "text": "Wet. [w](/w/). Wet."
+  },
+  {
+   "key": "0f1dif0",
+   "text": "[x](/ks/)."
+  },
+  {
+   "key": "1jm9crh",
+   "text": "[y](/j/)."
+  },
+  {
+   "key": "0myduia",
+   "text": "[z](/zːː/)."
+  },
+  {
+   "key": "0115qki",
+   "text": "Zip. [z](/zːː/). Zip."
+  },
+  {
+   "key": "09gbzhv",
+   "text": "[q](/kw/)."
+  },
+  {
+   "key": "0gn5b2h",
+   "text": "[at](/æt/)."
+  },
+  {
+   "key": "1g7ql4y",
+   "text": "Cat. [c](/k/). [at](/æt/). Cat."
+  },
+  {
+   "key": "04jke2p",
+   "text": "[an](/æn/)."
+  },
+  {
+   "key": "1uh3tam",
+   "text": "Can. [c](/k/). [an](/æn/). Can."
+  },
+  {
+   "key": "1hlh369",
+   "text": "[ap](/æp/)."
+  },
+  {
+   "key": "055xp0i",
+   "text": "Cap. [c](/k/). [ap](/æp/). Cap."
+  },
+  {
+   "key": "0xamgrh",
+   "text": "[ag](/æɡ/)."
+  },
+  {
+   "key": "0jmh25a",
+   "text": "Bag. [b](/b/). [ag](/æɡ/). Bag."
+  },
+  {
+   "key": "1unop49",
+   "text": "[ad](/æd/)."
+  },
+  {
+   "key": "15bg0r0",
+   "text": "Dad. [d](/d/). [ad](/æd/). Dad."
+  },
+  {
+   "key": "0r3thi3",
+   "text": "[am](/æm/)."
+  },
+  {
+   "key": "0kaqmi8",
+   "text": "Jam. [j](/dʒ/). [am](/æm/). Jam."
+  },
+  {
+   "key": "14aqwlp",
+   "text": "[it](/ɪt/)."
+  },
+  {
+   "key": "085wivi",
+   "text": "Sit. [s](/sːː/). [it](/ɪt/). Sit."
+  },
+  {
+   "key": "1uw2639",
+   "text": "[in](/ɪn/)."
+  },
+  {
+   "key": "1qfgfa4",
+   "text": "Pin. [p](/p/). [in](/ɪn/). Pin."
+  },
+  {
+   "key": "0fm2k6d",
+   "text": "[ip](/ɪp/)."
+  },
+  {
+   "key": "0ram2po",
+   "text": "Zip. [z](/zːː/). [ip](/ɪp/). Zip."
+  },
+  {
+   "key": "0ox5er5",
+   "text": "[ig](/ɪɡ/)."
+  },
+  {
+   "key": "0m7z1vq",
+   "text": "Pig. [p](/p/). [ig](/ɪɡ/). Pig."
+  },
+  {
+   "key": "0uh8ojx",
+   "text": "[id](/ɪd/)."
+  },
+  {
+   "key": "0rgnfrs",
+   "text": "Pid. [p](/p/). [id](/ɪd/). Pid."
+  },
+  {
+   "key": "09rd5ph",
+   "text": "[ix](/ɪks/)."
+  },
+  {
+   "key": "068k5yk",
+   "text": "Pix. [p](/p/). [ix](/ɪks/). Pix."
+  },
+  {
+   "key": "1hso33u",
+   "text": "[ot](/ɑt/)."
+  },
+  {
+   "key": "0g4z3pl",
+   "text": "Pot. [p](/p/). [ot](/ɑt/). Pot."
+  },
+  {
+   "key": "0w23zsi",
+   "text": "[op](/ɑp/)."
+  },
+  {
+   "key": "1qqineb",
+   "text": "Mop. [m](/mːː/). [op](/ɑp/). Mop."
+  },
+  {
+   "key": "0l1cfua",
+   "text": "[og](/ɑɡ/)."
+  },
+  {
+   "key": "02fz1jn",
+   "text": "Dog. [d](/d/). [og](/ɑɡ/). Dog."
+  },
+  {
+   "key": "0pci51w",
+   "text": "[ox](/ɑks/)."
+  },
+  {
+   "key": "0imlser",
+   "text": "Box. [b](/b/). [ox](/ɑks/). Box."
+  },
+  {
+   "key": "09o5fnf",
+   "text": "[un](/ʌn/)."
+  },
+  {
+   "key": "0r0tsaw",
+   "text": "Sun. [s](/sːː/). [un](/ʌn/). Sun."
+  },
+  {
+   "key": "1c2vs8z",
+   "text": "[ug](/ʌɡ/)."
+  },
+  {
+   "key": "1xpzat8",
+   "text": "Bug. [b](/b/). [ug](/ʌɡ/). Bug."
+  },
+  {
+   "key": "0kks803",
+   "text": "[ub](/ʌb/)."
+  },
+  {
+   "key": "0kth3ds",
+   "text": "Cub. [c](/k/). [ub](/ʌb/). Cub."
+  },
+  {
+   "key": "17y5jgb",
+   "text": "[up](/ʌp/)."
+  },
+  {
+   "key": "0gs3tbg",
+   "text": "Cup. [c](/k/). [up](/ʌp/). Cup."
+  },
+  {
+   "key": "1ypbear",
+   "text": "[ut](/ʌt/)."
+  },
+  {
+   "key": "0ecjq3y",
+   "text": "Nut. [n](/nːː/). [ut](/ʌt/). Nut."
+  },
+  {
+   "key": "1dy5weq",
+   "text": "[ed](/ɛd/)."
+  },
+  {
+   "key": "0voagad",
+   "text": "Bed. [b](/b/). [ed](/ɛd/). Bed."
+  },
+  {
+   "key": "11w0fhu",
+   "text": "[et](/ɛt/)."
+  },
+  {
+   "key": "13b4ohp",
+   "text": "Net. [n](/nːː/). [et](/ɛt/). Net."
+  },
+  {
+   "key": "0jmr0su",
+   "text": "[en](/ɛn/)."
+  },
+  {
+   "key": "13k19gh",
+   "text": "Hen. [h](/h/). [en](/ɛn/). Hen."
+  },
+  {
+   "key": "1u9lcpe",
+   "text": "[eg](/ɛɡ/)."
+  },
+  {
+   "key": "0s79qxf",
+   "text": "Peg. [p](/p/). [eg](/ɛɡ/). Peg."
+  }
+ ]
+}

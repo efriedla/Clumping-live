@@ -1,0 +1,1 @@
+function e(e){try{return localStorage.getItem(e)}catch{return null}}function t(e,t){try{return localStorage.setItem(e,t),!0}catch{return!1}}export{t as n,e as t};
