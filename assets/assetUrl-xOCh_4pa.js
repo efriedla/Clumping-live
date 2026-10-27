@@ -1,0 +1,1 @@
+function e(e){return`/Clumping-live/${e.replace(/^\//,``)}`}function t(t){return`${window.location.origin}${e(t)}`}function n(e,t=`/Clumping-live/`){let n=t.replace(/\/+$/,``);return n&&(e===n||e.startsWith(`${n}/`))?e.slice(n.length)||`/`:e}export{e as n,n as r,t};

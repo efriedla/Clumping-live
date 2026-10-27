@@ -1,0 +1,1 @@
+import{t as e}from"./jsx-runtime-shnjTBMD.js";import{t}from"./createSvgIcon-BzE9FlNk.js";var n=t((0,e().jsx)(`path`,{d:`m4 18 8.5-6L4 6zm9-12v12l8.5-6z`}),`FastForward`);export{n as t};
