@@ -1,0 +1,1 @@
+import{o as e}from"./chunk-zsgVPwQN.js";import{t}from"./react-CpO0XFEz.js";import{O as n}from"./GameKit-C3seVz5i.js";import{m as r}from"./curriculum-tAW35zrD.js";var i=e(t()),a=`reading-road-spellings`,o=()=>n(`reading-road-spellings`)??{};function s(){(0,i.useEffect)(()=>{r(o())},[])}export{o as n,s as r,a as t};
