@@ -1,0 +1,1 @@
+import"./useGameTransport-HojAFRaH.js";import{n as e}from"./useWebRTCTransport-4beLy8xe.js";function t(t){return e(t)}export{t};
