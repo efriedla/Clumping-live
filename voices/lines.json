@@ -36331,6 +36331,230 @@
    ]
   },
   {
+   "key": "07omcmc",
+   "text": "Water every flower.",
+   "voices": [
+    "af_heart"
+   ]
+  },
+  {
+   "key": "0vby1q7",
+   "text": "Lay arrow cards to walk the robot to each flower, then water it. Press Go to run them.",
+   "voices": [
+    "af_heart"
+   ]
+  },
+  {
+   "key": "1mgo7m6",
+   "text": "Rocks and ponds are in the way: go round them. Fewer cards = more stars.",
+   "voices": [
+    "af_heart"
+   ]
+  },
+  {
+   "key": "0kl7a0b",
+   "text": "Now the robot faces a way. Forward goes the way it’s facing; Turn left and Turn right turn it on the spot.",
+   "voices": [
+    "af_heart"
+   ]
+  },
+  {
+   "key": "1qi4rt4",
+   "text": "Repeat does the cards inside it again and again. A whole row of flowers, in a few cards!",
+   "voices": [
+    "af_heart"
+   ]
+  },
+  {
+   "key": "0fa33z1",
+   "text": "If flower: the robot looks down and waters only if there’s a flower. The flowers move every day, so the program has to look!",
+   "voices": [
+    "af_heart"
+   ]
+  },
+  {
+   "key": "07n1ilm",
+   "text": "If weed: pull it up; if not, water the flower. Weeds pop up in new places every day.",
+   "voices": [
+    "af_heart"
+   ]
+  },
+  {
+   "key": "0a2gcyd",
+   "text": "Make your own card: put cards in it once, then use it as many times as you like.",
+   "voices": [
+    "af_heart"
+   ]
+  },
+  {
+   "key": "1lpy4nm",
+   "text": "A program that’s nearly right. Press Go, see where it goes wrong, and fix it.",
+   "voices": [
+    "af_heart"
+   ]
+  },
+  {
+   "key": "0zt41k7",
+   "text": "Everything you know, all mixed up.",
+   "voices": [
+    "af_heart"
+   ]
+  },
+  {
+   "key": "0foq8fw",
+   "text": "Every flower watered!",
+   "voices": [
+    "af_heart"
+   ]
+  },
+  {
+   "key": "0hofpmo",
+   "text": "Bonk! Something’s in the way. The lit card is where it bumped.",
+   "voices": [
+    "af_heart"
+   ]
+  },
+  {
+   "key": "1isyr63",
+   "text": "Some flowers are still thirsty. Add more cards.",
+   "voices": [
+    "af_heart"
+   ]
+  },
+  {
+   "key": "1se9hyt",
+   "text": "Oh no, it watered a weed and the weed grew! Pull weeds, water flowers.",
+   "voices": [
+    "af_heart"
+   ]
+  },
+  {
+   "key": "1m4f9e0",
+   "text": "Oops, it pulled up a flower! Only pull weeds.",
+   "voices": [
+    "af_heart"
+   ]
+  },
+  {
+   "key": "1asevjl",
+   "text": "Splash! That water landed where there’s no thirsty flower. Water only on a flower.",
+   "voices": [
+    "af_heart"
+   ]
+  },
+  {
+   "key": "1fhzs3y",
+   "text": "The robot got tired: that’s a very long walk. Try fewer cards.",
+   "voices": [
+    "af_heart"
+   ]
+  },
+  {
+   "key": "0iyxj2e",
+   "text": "Once upon a time… Who is the character? Where do they live?",
+   "voices": [
+    "af_heart"
+   ]
+  },
+  {
+   "key": "1pj95sl",
+   "text": "Every day… What’s their normal life like?",
+   "voices": [
+    "af_heart"
+   ]
+  },
+  {
+   "key": "1f5eayk",
+   "text": "But one day… The problem! Something goes wrong or changes.",
+   "voices": [
+    "af_heart"
+   ]
+  },
+  {
+   "key": "1rhqqq2",
+   "text": "Because of that… What happens next?",
+   "voices": [
+    "af_heart"
+   ]
+  },
+  {
+   "key": "1rhc5xp",
+   "text": "Because of that… And then what? It gets bigger!",
+   "voices": [
+    "af_heart"
+   ]
+  },
+  {
+   "key": "1xgudn2",
+   "text": "Until finally… The big moment where they solve it.",
+   "voices": [
+    "af_heart"
+   ]
+  },
+  {
+   "key": "00xz488",
+   "text": "And ever since then… How life is different now.",
+   "voices": [
+    "af_heart"
+   ]
+  },
+  {
+   "key": "1le8fpx",
+   "text": "A story needs someone, somewhere, and a problem. Pick a picture for an idea, then write or say a sentence for each car.",
+   "voices": [
+    "af_heart"
+   ]
+  },
+  {
+   "key": "1jx6qfx",
+   "text": "Every story has a spine: once upon a time … every day … but one day … because of that … until finally … and ever since then.",
+   "voices": [
+    "af_heart"
+   ]
+  },
+  {
+   "key": "1lg6rch",
+   "text": "Specific words paint a picture.",
+   "voices": [
+    "af_heart"
+   ]
+  },
+  {
+   "key": "0eeyde0",
+   "text": "Strong verbs show how something happens.",
+   "voices": [
+    "af_heart"
+   ]
+  },
+  {
+   "key": "1ey0umx",
+   "text": "Show how someone feels by what they do.",
+   "voices": [
+    "af_heart"
+   ]
+  },
+  {
+   "key": "0hpgmeg",
+   "text": "How does your character feel in each car? Feelings change as the story goes.",
+   "voices": [
+    "af_heart"
+   ]
+  },
+  {
+   "key": "08u7g11",
+   "text": "In the “because of that” cars, make something surprising happen.",
+   "voices": [
+    "af_heart"
+   ]
+  },
+  {
+   "key": "0x5thic",
+   "text": "Your own story, all the way, with no idea cards. You know how!",
+   "voices": [
+    "af_heart"
+   ]
+  },
+  {
    "key": "1cmfvhe",
    "text": "1 times 1 is 1.",
    "voices": [
