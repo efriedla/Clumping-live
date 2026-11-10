@@ -727,8 +727,8 @@
       "_jsx-runtime-shnjTBMD.js"
     ]
   },
-  "_BarAction-DEpZStR4.js": {
-    "file": "assets/BarAction-DEpZStR4.js",
+  "_BarAction-CYxbqhF0.js": {
+    "file": "assets/BarAction-CYxbqhF0.js",
     "name": "BarAction",
     "imports": [
       "_chunk-zsgVPwQN.js",
@@ -741,8 +741,12 @@
       "_react-CpO0XFEz.js"
     ]
   },
-  "_Biscuits-DbHXpHwd.js": {
-    "file": "assets/Biscuits-DbHXpHwd.js",
+  "_Biscuits-DmmleBbP.css": {
+    "file": "assets/Biscuits-DmmleBbP.css",
+    "src": "_Biscuits-DmmleBbP.css"
+  },
+  "_Biscuits-QhjKMkCe.js": {
+    "file": "assets/Biscuits-QhjKMkCe.js",
     "name": "Biscuits",
     "imports": [
       "_chunk-zsgVPwQN.js",
@@ -759,12 +763,8 @@
       "assets/Biscuits-DmmleBbP.css"
     ]
   },
-  "_Biscuits-DmmleBbP.css": {
-    "file": "assets/Biscuits-DmmleBbP.css",
-    "src": "_Biscuits-DmmleBbP.css"
-  },
-  "_BottomSheet-CrmcHpqA.js": {
-    "file": "assets/BottomSheet-CrmcHpqA.js",
+  "_BottomSheet-BkZ_P2y_.js": {
+    "file": "assets/BottomSheet-BkZ_P2y_.js",
     "name": "BottomSheet",
     "imports": [
       "_chunk-zsgVPwQN.js",
@@ -1038,13 +1038,13 @@
     "file": "assets/ColouringBook-D4STS8uK.css",
     "src": "_ColouringBook-D4STS8uK.css"
   },
-  "_ColouringBook-gKtzVgpx.js": {
-    "file": "assets/ColouringBook-gKtzVgpx.js",
+  "_ColouringBook-DjO4wIbb.js": {
+    "file": "assets/ColouringBook-DjO4wIbb.js",
     "name": "ColouringBook",
     "imports": [
       "_chunk-zsgVPwQN.js",
       "_drawPage-CKQOmZU7.js",
-      "_CropImageModal-DjyGPijb.js",
+      "_CropImageModal-Cgh88rb8.js",
       "_clipboardImage-Cx2Sku-l.js",
       "_colouringPageStore-DqQofNNA.js",
       "_swatchTextures-CplrvnkJ.js",
@@ -1087,8 +1087,8 @@
       "_jsx-runtime-shnjTBMD.js"
     ]
   },
-  "_CropImageModal-DjyGPijb.js": {
-    "file": "assets/CropImageModal-DjyGPijb.js",
+  "_CropImageModal-Cgh88rb8.js": {
+    "file": "assets/CropImageModal-Cgh88rb8.js",
     "name": "CropImageModal",
     "imports": [
       "_chunk-zsgVPwQN.js",
@@ -1098,7 +1098,7 @@
       "_DialogActions-CsllDunk.js",
       "_DialogContent-LY7BPrKd.js",
       "_DialogTitle-XfBfg2nz.js",
-      "_Stack-w7S1U4OG.js",
+      "_Stack-DAYio-EY.js",
       "_Typography-zcp_KDa7.js",
       "_jsx-runtime-shnjTBMD.js",
       "_react-CpO0XFEz.js"
@@ -1309,8 +1309,8 @@
       "_jsx-runtime-shnjTBMD.js"
     ]
   },
-  "_Events-Bmh4SI_m.js": {
-    "file": "assets/Events-Bmh4SI_m.js",
+  "_Events-YoTlFD09.js": {
+    "file": "assets/Events-YoTlFD09.js",
     "name": "Events",
     "imports": [
       "_chunk-zsgVPwQN.js",
@@ -1960,8 +1960,8 @@
       "_react-CpO0XFEz.js"
     ]
   },
-  "_PaintCanvas-BLivkikz.js": {
-    "file": "assets/PaintCanvas-BLivkikz.js",
+  "_PaintCanvas-CpW4SLmM.js": {
+    "file": "assets/PaintCanvas-CpW4SLmM.js",
     "name": "PaintCanvas",
     "imports": [
       "_chunk-zsgVPwQN.js",
@@ -2079,12 +2079,8 @@
       "_jsx-runtime-shnjTBMD.js"
     ]
   },
-  "_PawsPlates-SFTuXzLn.css": {
-    "file": "assets/PawsPlates-SFTuXzLn.css",
-    "src": "_PawsPlates-SFTuXzLn.css"
-  },
-  "_PawsPlates-binyRbqW.js": {
-    "file": "assets/PawsPlates-binyRbqW.js",
+  "_PawsPlates-BIHkp8GG.js": {
+    "file": "assets/PawsPlates-BIHkp8GG.js",
     "name": "PawsPlates",
     "imports": [
       "_chunk-zsgVPwQN.js",
@@ -2106,6 +2102,10 @@
     "css": [
       "assets/PawsPlates-SFTuXzLn.css"
     ]
+  },
+  "_PawsPlates-SFTuXzLn.css": {
+    "file": "assets/PawsPlates-SFTuXzLn.css",
+    "src": "_PawsPlates-SFTuXzLn.css"
   },
   "_People-B6Ojo2SC.js": {
     "file": "assets/People-B6Ojo2SC.js",
@@ -2131,8 +2131,8 @@
       "_jsx-runtime-shnjTBMD.js"
     ]
   },
-  "_PictionaryContext-CmmHVbdc.js": {
-    "file": "assets/PictionaryContext-CmmHVbdc.js",
+  "_PictionaryContext-CeLR29J_.js": {
+    "file": "assets/PictionaryContext-CeLR29J_.js",
     "name": "PictionaryContext",
     "imports": [
       "_chunk-zsgVPwQN.js",
@@ -2263,8 +2263,8 @@
       "_react-CpO0XFEz.js"
     ]
   },
-  "_ReactKonva-VD3b9UDs.js": {
-    "file": "assets/ReactKonva-VD3b9UDs.js",
+  "_ReactKonva-wahpWaSF.js": {
+    "file": "assets/ReactKonva-wahpWaSF.js",
     "name": "ReactKonva",
     "imports": [
       "_chunk-zsgVPwQN.js",
@@ -2577,8 +2577,8 @@
       "assets/Stack-BOauDugb.css"
     ]
   },
-  "_Stack-w7S1U4OG.js": {
-    "file": "assets/Stack-w7S1U4OG.js",
+  "_Stack-DAYio-EY.js": {
+    "file": "assets/Stack-DAYio-EY.js",
     "name": "Stack",
     "imports": [
       "_chunk-zsgVPwQN.js",
@@ -2621,8 +2621,8 @@
       "_jsx-runtime-shnjTBMD.js"
     ]
   },
-  "_SwatchEditor-JYSYebSM.js": {
-    "file": "assets/SwatchEditor-JYSYebSM.js",
+  "_SwatchEditor-CgWOWxAd.js": {
+    "file": "assets/SwatchEditor-CgWOWxAd.js",
     "name": "SwatchEditor",
     "imports": [
       "_chunk-zsgVPwQN.js",
@@ -2650,19 +2650,15 @@
       "_TextField-fT3dYSsb.js",
       "_IconButton-DGtLMQ7M.js",
       "_MenuItem-CbPdmCNA.js",
-      "_Stack-w7S1U4OG.js",
+      "_Stack-DAYio-EY.js",
       "_ToggleButtonGroup-DjPTBxdr.js",
       "_Typography-zcp_KDa7.js",
       "_jsx-runtime-shnjTBMD.js",
       "_react-CpO0XFEz.js"
     ]
   },
-  "_SwatchPicker-DUrvVhUN.css": {
-    "file": "assets/SwatchPicker-DUrvVhUN.css",
-    "src": "_SwatchPicker-DUrvVhUN.css"
-  },
-  "_SwatchPicker-G-9frcId.js": {
-    "file": "assets/SwatchPicker-G-9frcId.js",
+  "_SwatchPicker-CvPK3l6W.js": {
+    "file": "assets/SwatchPicker-CvPK3l6W.js",
     "name": "SwatchPicker",
     "imports": [
       "_chunk-zsgVPwQN.js",
@@ -2687,6 +2683,10 @@
       "src/components/features/ColourStudio/ColourStudio.tsx"
     ]
   },
+  "_SwatchPicker-DUrvVhUN.css": {
+    "file": "assets/SwatchPicker-DUrvVhUN.css",
+    "src": "_SwatchPicker-DUrvVhUN.css"
+  },
   "_SwatchPreview-CEtM_lOu.js": {
     "file": "assets/SwatchPreview-CEtM_lOu.js",
     "name": "SwatchPreview",
@@ -2698,8 +2698,8 @@
       "_react-CpO0XFEz.js"
     ]
   },
-  "_SwatchToolsNav-CYd0lwYA.js": {
-    "file": "assets/SwatchToolsNav-CYd0lwYA.js",
+  "_SwatchToolsNav-CZzR-JTF.js": {
+    "file": "assets/SwatchToolsNav-CZzR-JTF.js",
     "name": "SwatchToolsNav",
     "imports": [
       "_chunk-zsgVPwQN.js",
@@ -2754,21 +2754,17 @@
     "file": "assets/SymbolCanvas-CX1rIaF0.js",
     "name": "SymbolCanvas"
   },
-  "_SymbolMaker-O27DiXY_.css": {
-    "file": "assets/SymbolMaker-O27DiXY_.css",
-    "src": "_SymbolMaker-O27DiXY_.css"
-  },
-  "_SymbolMaker-hH8Swrv7.js": {
-    "file": "assets/SymbolMaker-hH8Swrv7.js",
+  "_SymbolMaker-CbOWp7YX.js": {
+    "file": "assets/SymbolMaker-CbOWp7YX.js",
     "name": "SymbolMaker",
     "imports": [
       "_chunk-zsgVPwQN.js",
       "index.html",
       "_preload-helper-DfjyiB2A.js",
       "_ImageDrop-CIK7v16l.js",
-      "_SwatchPicker-G-9frcId.js",
+      "_SwatchPicker-CvPK3l6W.js",
       "_SwatchPreview-CEtM_lOu.js",
-      "_CropImageModal-DjyGPijb.js",
+      "_CropImageModal-Cgh88rb8.js",
       "_clipboardImage-Cx2Sku-l.js",
       "_exportSymbol-C3IY-56k.js",
       "_ThemeContext-CbNhLSYV.js",
@@ -2826,11 +2822,11 @@
       "_MenuItem-CbPdmCNA.js",
       "_Tooltip-BJKjN-ST.js",
       "_Slider-C2D9u6ep.js",
-      "_Stack-w7S1U4OG.js",
+      "_Stack-DAYio-EY.js",
       "_createSvgIcon-BzE9FlNk.js",
       "_ToggleButtonGroup-DjPTBxdr.js",
       "_Typography-zcp_KDa7.js",
-      "_ReactKonva-VD3b9UDs.js",
+      "_ReactKonva-wahpWaSF.js",
       "_jsx-runtime-shnjTBMD.js",
       "_react-CpO0XFEz.js"
     ],
@@ -2846,6 +2842,10 @@
       "assets/vision_wasm_nosimd_internal-BUZGNESe.js",
       "assets/vision_wasm_nosimd_internal-DWzsx84a.wasm"
     ]
+  },
+  "_SymbolMaker-O27DiXY_.css": {
+    "file": "assets/SymbolMaker-O27DiXY_.css",
+    "src": "_SymbolMaker-O27DiXY_.css"
   },
   "_Tabs-C8kiO6Sb.js": {
     "file": "assets/Tabs-C8kiO6Sb.js",
@@ -2965,8 +2965,8 @@
       "_react-CpO0XFEz.js"
     ]
   },
-  "_ToolHeader-Cz9BlfJw.js": {
-    "file": "assets/ToolHeader-Cz9BlfJw.js",
+  "_ToolHeader-By5ueVv1.js": {
+    "file": "assets/ToolHeader-By5ueVv1.js",
     "name": "ToolHeader",
     "imports": [
       "_chunk-zsgVPwQN.js",
@@ -3095,8 +3095,8 @@
       "_jsx-runtime-shnjTBMD.js"
     ]
   },
-  "_WormCity-Cg1hTwDm.js": {
-    "file": "assets/WormCity-Cg1hTwDm.js",
+  "_WormCity-DuBdtwx9.js": {
+    "file": "assets/WormCity-DuBdtwx9.js",
     "name": "WormCity",
     "imports": [
       "_chunk-zsgVPwQN.js",
@@ -3166,8 +3166,8 @@
       "_safeStorage-DQ22Zy9t.js"
     ]
   },
-  "_applyTemplate-CeD1VyuK.js": {
-    "file": "assets/applyTemplate-CeD1VyuK.js",
+  "_applyTemplate-ooKaDI3L.js": {
+    "file": "assets/applyTemplate-ooKaDI3L.js",
     "name": "applyTemplate",
     "imports": [
       "_chunk-zsgVPwQN.js",
@@ -4070,7 +4070,7 @@
     "name": "wormLoop"
   },
   "index.html": {
-    "file": "assets/index-DtDFD2Md.js",
+    "file": "assets/index-jTIsz2iT.js",
     "name": "index",
     "src": "index.html",
     "isEntry": true,
@@ -4297,7 +4297,7 @@
     ]
   },
   "src/components/features/ColourStudio/ColourStudio.tsx": {
-    "file": "assets/ColourStudio-C5EqPAgN.js",
+    "file": "assets/ColourStudio-DVhUE1gx.js",
     "name": "ColourStudio",
     "src": "src/components/features/ColourStudio/ColourStudio.tsx",
     "isDynamicEntry": true,
@@ -4306,8 +4306,8 @@
       "index.html",
       "_PatternMaker-QmzC6qHb.js",
       "_ImageDrop-CIK7v16l.js",
-      "_SwatchEditor-JYSYebSM.js",
-      "_SwatchPicker-G-9frcId.js",
+      "_SwatchEditor-CgWOWxAd.js",
+      "_SwatchPicker-CvPK3l6W.js",
       "_SwatchPreview-CEtM_lOu.js",
       "_clipboardImage-Cx2Sku-l.js",
       "_exportSymbol-C3IY-56k.js",
@@ -4396,7 +4396,7 @@
     ]
   },
   "src/components/features/RoomPreview/ElevationEditor.tsx": {
-    "file": "assets/ElevationEditor-Be2mfKpF.js",
+    "file": "assets/ElevationEditor-D4llxyH2.js",
     "name": "ElevationEditor",
     "src": "src/components/features/RoomPreview/ElevationEditor.tsx",
     "isDynamicEntry": true,
@@ -4432,7 +4432,7 @@
       "_IconButton-DGtLMQ7M.js",
       "_MenuItem-CbPdmCNA.js",
       "_Tooltip-BJKjN-ST.js",
-      "_Stack-w7S1U4OG.js",
+      "_Stack-DAYio-EY.js",
       "_Switch-BvU93tiA.js",
       "_ToggleButtonGroup-DjPTBxdr.js",
       "_Toolbar-C3rNqLwg.js",
@@ -4446,16 +4446,16 @@
     ]
   },
   "src/components/features/SymbolCanvas/SymbolMaker.tsx": {
-    "file": "assets/SymbolMaker-C29o8Z5P.js",
+    "file": "assets/SymbolMaker-DZgNg7oj.js",
     "name": "SymbolMaker",
     "src": "src/components/features/SymbolCanvas/SymbolMaker.tsx",
     "isDynamicEntry": true,
     "imports": [
       "_ImageDrop-CIK7v16l.js",
-      "_SwatchPicker-G-9frcId.js",
+      "_SwatchPicker-CvPK3l6W.js",
       "_SwatchPreview-CEtM_lOu.js",
-      "_SymbolMaker-hH8Swrv7.js",
-      "_CropImageModal-DjyGPijb.js",
+      "_SymbolMaker-CbOWp7YX.js",
+      "_CropImageModal-Cgh88rb8.js",
       "_clipboardImage-Cx2Sku-l.js",
       "_exportSymbol-C3IY-56k.js",
       "_ThemeContext-CbNhLSYV.js",
@@ -4471,7 +4471,7 @@
       "_DefaultPropsProvider-BF5lViF3.js",
       "_Modal-whXnylge.js",
       "_build-BvnDuTrd.js",
-      "_ReactKonva-VD3b9UDs.js",
+      "_ReactKonva-wahpWaSF.js",
       "_jsx-runtime-shnjTBMD.js",
       "_react-CpO0XFEz.js"
     ],
@@ -4743,13 +4743,13 @@
     ]
   },
   "src/pages/Biscuits.tsx": {
-    "file": "assets/Biscuits-DUgdjS3g.js",
+    "file": "assets/Biscuits-BMvDD-Ol.js",
     "name": "Biscuits",
     "src": "src/pages/Biscuits.tsx",
     "isDynamicEntry": true,
     "imports": [
       "_chunk-zsgVPwQN.js",
-      "_Biscuits-DbHXpHwd.js",
+      "_Biscuits-QhjKMkCe.js",
       "_Fireworks-Ck9F2Zqr.js",
       "_DefaultPropsProvider-BF5lViF3.js",
       "_ArrowBack-BXQoDYjK.js",
@@ -4850,7 +4850,7 @@
     ]
   },
   "src/pages/BubbleShooter.tsx": {
-    "file": "assets/BubbleShooter-DNsrYJEa.js",
+    "file": "assets/BubbleShooter-CkI8h1oX.js",
     "name": "BubbleShooter",
     "src": "src/pages/BubbleShooter.tsx",
     "isDynamicEntry": true,
@@ -4905,14 +4905,14 @@
     ]
   },
   "src/pages/Calendar.tsx": {
-    "file": "assets/Calendar-CrRhtMyU.js",
+    "file": "assets/Calendar-TnhYIk1R.js",
     "name": "Calendar",
     "src": "src/pages/Calendar.tsx",
     "isDynamicEntry": true,
     "imports": [
       "_chunk-zsgVPwQN.js",
       "index.html",
-      "_Events-Bmh4SI_m.js",
+      "_Events-YoTlFD09.js",
       "_GameKit-vgNmOJOE.js",
       "_gameSounds-Mjby651L.js",
       "_AdultGate-DYP151nY.js",
@@ -5114,7 +5114,7 @@
     ]
   },
   "src/pages/ClockTower.tsx": {
-    "file": "assets/ClockTower-Ctw0KIVQ.js",
+    "file": "assets/ClockTower-C4LPKIl4.js",
     "name": "ClockTower",
     "src": "src/pages/ClockTower.tsx",
     "isDynamicEntry": true,
@@ -5161,14 +5161,14 @@
     ]
   },
   "src/pages/Clumping.tsx": {
-    "file": "assets/Clumping-D1ua34LU.js",
+    "file": "assets/Clumping-BRpfcbHv.js",
     "name": "Clumping",
     "src": "src/pages/Clumping.tsx",
     "isDynamicEntry": true,
     "imports": [
       "_chunk-zsgVPwQN.js",
       "index.html",
-      "_Events-Bmh4SI_m.js",
+      "_Events-YoTlFD09.js",
       "_PageLayout-Dl_TDQIO.js",
       "_Stack-CmvCCi-v.js",
       "_ThemeContext-CbNhLSYV.js",
@@ -5212,15 +5212,15 @@
     ]
   },
   "src/pages/CollageEditor.tsx": {
-    "file": "assets/CollageEditor-BwDscGD9.js",
+    "file": "assets/CollageEditor-ocvobx0m.js",
     "name": "CollageEditor",
     "src": "src/pages/CollageEditor.tsx",
     "isDynamicEntry": true,
     "imports": [
       "_chunk-zsgVPwQN.js",
       "index.html",
-      "_applyTemplate-CeD1VyuK.js",
-      "_PaintCanvas-BLivkikz.js",
+      "_applyTemplate-ooKaDI3L.js",
+      "_PaintCanvas-CpW4SLmM.js",
       "_PaintPatternPicker-AM_Qf7Jg.js",
       "_paintTextures-lSsXeqS0.js",
       "_SwatchPreview-CEtM_lOu.js",
@@ -5281,7 +5281,7 @@
       "_ToggleButtonGroup-DjPTBxdr.js",
       "_Typography-zcp_KDa7.js",
       "_build-BvnDuTrd.js",
-      "_ReactKonva-VD3b9UDs.js",
+      "_ReactKonva-wahpWaSF.js",
       "_chunk-EPOLDU6W-LQMasD15.js",
       "_jsx-runtime-shnjTBMD.js",
       "_react-CpO0XFEz.js"
@@ -5291,14 +5291,14 @@
     ]
   },
   "src/pages/Collages.tsx": {
-    "file": "assets/Collages-NjRc6tii.js",
+    "file": "assets/Collages-CITaer_C.js",
     "name": "Collages",
     "src": "src/pages/Collages.tsx",
     "isDynamicEntry": true,
     "imports": [
       "_chunk-zsgVPwQN.js",
       "index.html",
-      "_applyTemplate-CeD1VyuK.js",
+      "_applyTemplate-ooKaDI3L.js",
       "_PageLayout-Dl_TDQIO.js",
       "_UserContext-JQIBj110.js",
       "_offlineDb-CEAj80XZ.js",
@@ -5327,14 +5327,14 @@
     ]
   },
   "src/pages/ColouringBook.tsx": {
-    "file": "assets/ColouringBook-Corrh6RK.js",
+    "file": "assets/ColouringBook-DvjEpYSx.js",
     "name": "ColouringBook",
     "src": "src/pages/ColouringBook.tsx",
     "isDynamicEntry": true,
     "imports": [
       "_chunk-zsgVPwQN.js",
       "index.html",
-      "_ColouringBook-gKtzVgpx.js",
+      "_ColouringBook-DjO4wIbb.js",
       "_drawPage-CKQOmZU7.js",
       "_GameKit-vgNmOJOE.js",
       "_gameSounds-Mjby651L.js",
@@ -5345,7 +5345,7 @@
       "_Things-BfpiAsCD.js",
       "_babyVoice-Bni9B4OR.js",
       "_SwatchPreview-CEtM_lOu.js",
-      "_CropImageModal-DjyGPijb.js",
+      "_CropImageModal-Cgh88rb8.js",
       "_clipboardImage-Cx2Sku-l.js",
       "_Fireworks-Ck9F2Zqr.js",
       "_UserContext-JQIBj110.js",
@@ -5379,7 +5379,7 @@
     ]
   },
   "src/pages/ColouringStudio.tsx": {
-    "file": "assets/ColouringStudio-C3wQ9mtK.js",
+    "file": "assets/ColouringStudio-DB20cqCf.js",
     "name": "ColouringStudio",
     "src": "src/pages/ColouringStudio.tsx",
     "isDynamicEntry": true,
@@ -5387,7 +5387,7 @@
       "_chunk-zsgVPwQN.js",
       "_inkPage-DQnGD3Ad.js",
       "index.html",
-      "_ColouringBook-gKtzVgpx.js",
+      "_ColouringBook-DjO4wIbb.js",
       "_drawPage-CKQOmZU7.js",
       "_GameKit-vgNmOJOE.js",
       "_gameSounds-Mjby651L.js",
@@ -5396,10 +5396,10 @@
       "_PaintPatternPicker-AM_Qf7Jg.js",
       "_paintTextures-lSsXeqS0.js",
       "_SwatchPreview-CEtM_lOu.js",
-      "_CropImageModal-DjyGPijb.js",
+      "_CropImageModal-Cgh88rb8.js",
       "_clipboardImage-Cx2Sku-l.js",
-      "_ToolHeader-Cz9BlfJw.js",
-      "_BarAction-DEpZStR4.js",
+      "_ToolHeader-By5ueVv1.js",
+      "_BarAction-CYxbqhF0.js",
       "_LittleVoiceControls-qFuQLYIM.js",
       "_AccessibilityContext-CA1fBrLg.js",
       "_UserContext-JQIBj110.js",
@@ -5487,14 +5487,14 @@
     ]
   },
   "src/pages/CubeBuilder.tsx": {
-    "file": "assets/CubeBuilder-Bf0Hxob2.js",
+    "file": "assets/CubeBuilder-BRnqtXeO.js",
     "name": "CubeBuilder",
     "src": "src/pages/CubeBuilder.tsx",
     "isDynamicEntry": true,
     "imports": [
       "_chunk-zsgVPwQN.js",
       "index.html",
-      "_SwatchPicker-G-9frcId.js",
+      "_SwatchPicker-CvPK3l6W.js",
       "_SwatchPreview-CEtM_lOu.js",
       "_swatchStore--DO_6Cda.js",
       "_swatchTextures-CplrvnkJ.js",
@@ -5526,7 +5526,7 @@
     ]
   },
   "src/pages/Dashboard.tsx": {
-    "file": "assets/Dashboard-jZzq4VEU.js",
+    "file": "assets/Dashboard-WK4hu4ix.js",
     "name": "Dashboard",
     "src": "src/pages/Dashboard.tsx",
     "isDynamicEntry": true,
@@ -5546,7 +5546,7 @@
     ]
   },
   "src/pages/DeepDrop.tsx": {
-    "file": "assets/DeepDrop-C8DrZGg4.js",
+    "file": "assets/DeepDrop-CNF5qhGw.js",
     "name": "DeepDrop",
     "src": "src/pages/DeepDrop.tsx",
     "isDynamicEntry": true,
@@ -5631,14 +5631,14 @@
     ]
   },
   "src/pages/Events.tsx": {
-    "file": "assets/Events-DJgNXA-G.js",
+    "file": "assets/Events-BihZbwrx.js",
     "name": "Events",
     "src": "src/pages/Events.tsx",
     "isDynamicEntry": true,
     "imports": [
       "_chunk-zsgVPwQN.js",
       "index.html",
-      "_Events-Bmh4SI_m.js",
+      "_Events-YoTlFD09.js",
       "_PageLayout-Dl_TDQIO.js",
       "_Stack-CmvCCi-v.js",
       "_ThemeContext-CbNhLSYV.js",
@@ -5694,7 +5694,7 @@
     ]
   },
   "src/pages/FamilyFeud.tsx": {
-    "file": "assets/FamilyFeud-CylpgfkO.js",
+    "file": "assets/FamilyFeud-D3y7WlP2.js",
     "name": "FamilyFeud",
     "src": "src/pages/FamilyFeud.tsx",
     "isDynamicEntry": true,
@@ -5786,7 +5786,7 @@
     ]
   },
   "src/pages/Fishing.tsx": {
-    "file": "assets/Fishing-CpLLtqMm.js",
+    "file": "assets/Fishing-DPWrr97I.js",
     "name": "Fishing",
     "src": "src/pages/Fishing.tsx",
     "isDynamicEntry": true,
@@ -5812,7 +5812,7 @@
     ]
   },
   "src/pages/FortuneTeller.tsx": {
-    "file": "assets/FortuneTeller-BzAUNpPr.js",
+    "file": "assets/FortuneTeller-Cp9cIpq1.js",
     "name": "FortuneTeller",
     "src": "src/pages/FortuneTeller.tsx",
     "isDynamicEntry": true,
@@ -5875,7 +5875,7 @@
     ]
   },
   "src/pages/GameNight.tsx": {
-    "file": "assets/GameNight-CW1cYirO.js",
+    "file": "assets/GameNight-B1I8qZ-0.js",
     "name": "GameNight",
     "src": "src/pages/GameNight.tsx",
     "isDynamicEntry": true,
@@ -5907,7 +5907,7 @@
     ]
   },
   "src/pages/GamesDirectory.tsx": {
-    "file": "assets/GamesDirectory-DPKq2696.js",
+    "file": "assets/GamesDirectory-DcjV0_gt.js",
     "name": "GamesDirectory",
     "src": "src/pages/GamesDirectory.tsx",
     "isDynamicEntry": true,
@@ -6046,13 +6046,13 @@
     ]
   },
   "src/pages/GrandpaTonic.tsx": {
-    "file": "assets/GrandpaTonic-CrFhRNxM.js",
+    "file": "assets/GrandpaTonic-BaciI-uM.js",
     "name": "GrandpaTonic",
     "src": "src/pages/GrandpaTonic.tsx",
     "isDynamicEntry": true,
     "imports": [
       "_chunk-zsgVPwQN.js",
-      "_Biscuits-DbHXpHwd.js",
+      "_Biscuits-QhjKMkCe.js",
       "_Fireworks-Ck9F2Zqr.js",
       "_DefaultPropsProvider-BF5lViF3.js",
       "_ArrowBack-BXQoDYjK.js",
@@ -6075,7 +6075,7 @@
     ]
   },
   "src/pages/Hangman.tsx": {
-    "file": "assets/Hangman-C6Tze134.js",
+    "file": "assets/Hangman-BcNFqP64.js",
     "name": "Hangman",
     "src": "src/pages/Hangman.tsx",
     "isDynamicEntry": true,
@@ -6139,13 +6139,13 @@
     ]
   },
   "src/pages/HowManyWays.tsx": {
-    "file": "assets/HowManyWays-DgcQTnCV.js",
+    "file": "assets/HowManyWays-BP7h_S1a.js",
     "name": "HowManyWays",
     "src": "src/pages/HowManyWays.tsx",
     "isDynamicEntry": true,
     "imports": [
       "_chunk-zsgVPwQN.js",
-      "_Biscuits-DbHXpHwd.js",
+      "_Biscuits-QhjKMkCe.js",
       "_Fireworks-Ck9F2Zqr.js",
       "_DefaultPropsProvider-BF5lViF3.js",
       "_ArrowBack-BXQoDYjK.js",
@@ -6166,7 +6166,7 @@
     ]
   },
   "src/pages/Ideas.tsx": {
-    "file": "assets/Ideas-BaH-WfEj.js",
+    "file": "assets/Ideas-BHxM1byT.js",
     "name": "Ideas",
     "src": "src/pages/Ideas.tsx",
     "isDynamicEntry": true,
@@ -6179,7 +6179,7 @@
       "_OpenWith-EPXIWbrs.js",
       "_Timeline-C_nqzlE1.js",
       "_createSvgIcon-BzE9FlNk.js",
-      "_ReactKonva-VD3b9UDs.js",
+      "_ReactKonva-wahpWaSF.js",
       "_quill.snow-DXy50yM4.js",
       "_esm-DsjC8tZe.js",
       "_chunk-EPOLDU6W-LQMasD15.js",
@@ -6191,7 +6191,7 @@
     ]
   },
   "src/pages/Jigsaw.tsx": {
-    "file": "assets/Jigsaw-_usXt42Z.js",
+    "file": "assets/Jigsaw-CiewUe8o.js",
     "name": "Jigsaw",
     "src": "src/pages/Jigsaw.tsx",
     "isDynamicEntry": true,
@@ -6239,13 +6239,13 @@
     ]
   },
   "src/pages/KitchenSandbox.tsx": {
-    "file": "assets/KitchenSandbox-CBW9kBmM.js",
+    "file": "assets/KitchenSandbox-BlqU4X61.js",
     "name": "KitchenSandbox",
     "src": "src/pages/KitchenSandbox.tsx",
     "isDynamicEntry": true,
     "imports": [
       "_chunk-zsgVPwQN.js",
-      "_Biscuits-DbHXpHwd.js",
+      "_Biscuits-QhjKMkCe.js",
       "_useSimLoop-eVcCGT-k.js",
       "_tokens-CfcZEBs8.js",
       "_DefaultPropsProvider-BF5lViF3.js",
@@ -6331,7 +6331,7 @@
     ]
   },
   "src/pages/Life.tsx": {
-    "file": "assets/Life-tA43F9ln.js",
+    "file": "assets/Life-BPqhPvyK.js",
     "name": "Life",
     "src": "src/pages/Life.tsx",
     "isDynamicEntry": true,
@@ -6343,9 +6343,9 @@
       "_gameSounds-Mjby651L.js",
       "_AdultGate-DYP151nY.js",
       "_kidsStore-Dz2hono3.js",
-      "_ToolHeader-Cz9BlfJw.js",
-      "_BarAction-DEpZStR4.js",
-      "_BottomSheet-CrmcHpqA.js",
+      "_ToolHeader-By5ueVv1.js",
+      "_BarAction-CYxbqhF0.js",
+      "_BottomSheet-BkZ_P2y_.js",
       "_ConfirmDialog-DnVaYDiY.js",
       "_LittleVoiceControls-qFuQLYIM.js",
       "_AccessibilityContext-CA1fBrLg.js",
@@ -6406,7 +6406,7 @@
     ]
   },
   "src/pages/MadLibs.tsx": {
-    "file": "assets/MadLibs-BVspcIgN.js",
+    "file": "assets/MadLibs-BJzlQ9TS.js",
     "name": "MadLibs",
     "src": "src/pages/MadLibs.tsx",
     "isDynamicEntry": true,
@@ -6490,7 +6490,7 @@
     ]
   },
   "src/pages/Music.tsx": {
-    "file": "assets/Music-ZUE0cgp1.js",
+    "file": "assets/Music-F8OCaZNL.js",
     "name": "Music",
     "src": "src/pages/Music.tsx",
     "isDynamicEntry": true,
@@ -6536,7 +6536,7 @@
     ]
   },
   "src/pages/NameSpinner.tsx": {
-    "file": "assets/NameSpinner-BGqYZy6-.js",
+    "file": "assets/NameSpinner-CpFqyif7.js",
     "name": "NameSpinner",
     "src": "src/pages/NameSpinner.tsx",
     "isDynamicEntry": true,
@@ -6615,14 +6615,14 @@
     ]
   },
   "src/pages/Paint.tsx": {
-    "file": "assets/Paint-CMH_vnTy.js",
+    "file": "assets/Paint-DQZDUglU.js",
     "name": "Paint",
     "src": "src/pages/Paint.tsx",
     "isDynamicEntry": true,
     "imports": [
       "_chunk-zsgVPwQN.js",
       "index.html",
-      "_PaintCanvas-BLivkikz.js",
+      "_PaintCanvas-CpW4SLmM.js",
       "_PaintPatternPicker-AM_Qf7Jg.js",
       "_paintTextures-lSsXeqS0.js",
       "_SwatchPreview-CEtM_lOu.js",
@@ -6663,14 +6663,14 @@
     ]
   },
   "src/pages/PawsPlates.tsx": {
-    "file": "assets/PawsPlates-ClhqD9WB.js",
+    "file": "assets/PawsPlates-D9hsWYe0.js",
     "name": "PawsPlates",
     "src": "src/pages/PawsPlates.tsx",
     "isDynamicEntry": true,
     "imports": [
       "_chunk-zsgVPwQN.js",
       "index.html",
-      "_PawsPlates-binyRbqW.js",
+      "_PawsPlates-BIHkp8GG.js",
       "_GameKit-vgNmOJOE.js",
       "_gameSounds-Mjby651L.js",
       "_AdultGate-DYP151nY.js",
@@ -6725,14 +6725,14 @@
     ]
   },
   "src/pages/PetParlour.tsx": {
-    "file": "assets/PetParlour-CFogE7cr.js",
+    "file": "assets/PetParlour-DJnT_ifQ.js",
     "name": "PetParlour",
     "src": "src/pages/PetParlour.tsx",
     "isDynamicEntry": true,
     "imports": [
       "_chunk-zsgVPwQN.js",
       "index.html",
-      "_PawsPlates-binyRbqW.js",
+      "_PawsPlates-BIHkp8GG.js",
       "_GameKit-vgNmOJOE.js",
       "_gameSounds-Mjby651L.js",
       "_kidsStore-Dz2hono3.js",
@@ -6768,7 +6768,7 @@
     ]
   },
   "src/pages/PhotoBooth.tsx": {
-    "file": "assets/PhotoBooth-CQFo5nuL.js",
+    "file": "assets/PhotoBooth-DzqEdo5s.js",
     "name": "PhotoBooth",
     "src": "src/pages/PhotoBooth.tsx",
     "isDynamicEntry": true,
@@ -6802,14 +6802,14 @@
     ]
   },
   "src/pages/Photos.tsx": {
-    "file": "assets/Photos-xFkOKQB4.js",
+    "file": "assets/Photos-r7cHQ3N7.js",
     "name": "Photos",
     "src": "src/pages/Photos.tsx",
     "isDynamicEntry": true,
     "imports": [
       "_chunk-zsgVPwQN.js",
       "index.html",
-      "_Events-Bmh4SI_m.js",
+      "_Events-YoTlFD09.js",
       "_PageLayout-Dl_TDQIO.js",
       "_Stack-CmvCCi-v.js",
       "_ThemeContext-CbNhLSYV.js",
@@ -6899,14 +6899,14 @@
     ]
   },
   "src/pages/Pictionary.tsx": {
-    "file": "assets/Pictionary-CskAqq0t.js",
+    "file": "assets/Pictionary-DeDPb7YZ.js",
     "name": "Pictionary",
     "src": "src/pages/Pictionary.tsx",
     "isDynamicEntry": true,
     "imports": [
       "_chunk-zsgVPwQN.js",
       "index.html",
-      "_PictionaryContext-CmmHVbdc.js",
+      "_PictionaryContext-CeLR29J_.js",
       "_HostModeContext-DeD0rzdJ.js",
       "_UserContext-JQIBj110.js",
       "_useGameTransport-juIb5lIg.js",
@@ -6940,14 +6940,14 @@
     ]
   },
   "src/pages/PictionaryJoin.tsx": {
-    "file": "assets/PictionaryJoin-C1CVhewz.js",
+    "file": "assets/PictionaryJoin-QjSLrpbo.js",
     "name": "PictionaryJoin",
     "src": "src/pages/PictionaryJoin.tsx",
     "isDynamicEntry": true,
     "imports": [
       "_chunk-zsgVPwQN.js",
       "index.html",
-      "_PictionaryContext-CmmHVbdc.js",
+      "_PictionaryContext-CeLR29J_.js",
       "_YourNameField-DxlbSCp8.js",
       "_UserContext-JQIBj110.js",
       "_useGameTransport-juIb5lIg.js",
@@ -7011,14 +7011,14 @@
     ]
   },
   "src/pages/Planner.tsx": {
-    "file": "assets/Planner-BgztEjn2.js",
+    "file": "assets/Planner-DR_3ifk6.js",
     "name": "Planner",
     "src": "src/pages/Planner.tsx",
     "isDynamicEntry": true,
     "imports": [
       "_chunk-zsgVPwQN.js",
       "index.html",
-      "_Events-Bmh4SI_m.js",
+      "_Events-YoTlFD09.js",
       "_Stack-CmvCCi-v.js",
       "_ThemeContext-CbNhLSYV.js",
       "_useEvents-Ds9mgU-r.js",
@@ -7053,7 +7053,7 @@
     ]
   },
   "src/pages/RainbowBook.tsx": {
-    "file": "assets/RainbowBook-BioLcyRV.js",
+    "file": "assets/RainbowBook-DUUQ02n1.js",
     "name": "RainbowBook",
     "src": "src/pages/RainbowBook.tsx",
     "isDynamicEntry": true,
@@ -7088,7 +7088,7 @@
     ]
   },
   "src/pages/RainbowSlides.tsx": {
-    "file": "assets/RainbowSlides-C79isFzO.js",
+    "file": "assets/RainbowSlides-B5hAp3Eu.js",
     "name": "RainbowSlides",
     "src": "src/pages/RainbowSlides.tsx",
     "isDynamicEntry": true,
@@ -7193,7 +7193,7 @@
     ]
   },
   "src/pages/RemoteShutter.tsx": {
-    "file": "assets/RemoteShutter-Btmzbz3C.js",
+    "file": "assets/RemoteShutter-DnxOEIUh.js",
     "name": "RemoteShutter",
     "src": "src/pages/RemoteShutter.tsx",
     "isDynamicEntry": true,
@@ -7212,7 +7212,7 @@
     ]
   },
   "src/pages/RobotGarden.tsx": {
-    "file": "assets/RobotGarden-BHBIuB8_.js",
+    "file": "assets/RobotGarden-CdITeuWR.js",
     "name": "RobotGarden",
     "src": "src/pages/RobotGarden.tsx",
     "isDynamicEntry": true,
@@ -7256,7 +7256,7 @@
     ]
   },
   "src/pages/Settings.tsx": {
-    "file": "assets/Settings-DBm5yObA.js",
+    "file": "assets/Settings-D8U_ApeF.js",
     "name": "Settings",
     "src": "src/pages/Settings.tsx",
     "isDynamicEntry": true,
@@ -7309,7 +7309,7 @@
       "_LinearProgress-o57aIEAk.js",
       "_Tooltip-BJKjN-ST.js",
       "_Slider-C2D9u6ep.js",
-      "_Stack-w7S1U4OG.js",
+      "_Stack-DAYio-EY.js",
       "_createSvgIcon-BzE9FlNk.js",
       "_Switch-BvU93tiA.js",
       "_Typography-zcp_KDa7.js",
@@ -7416,14 +7416,14 @@
     ]
   },
   "src/pages/ShopperHome.tsx": {
-    "file": "assets/ShopperHome-Bq22f_QR.js",
+    "file": "assets/ShopperHome-CcXmdN8g.js",
     "name": "ShopperHome",
     "src": "src/pages/ShopperHome.tsx",
     "isDynamicEntry": true,
     "imports": [
       "_chunk-zsgVPwQN.js",
       "index.html",
-      "_Events-Bmh4SI_m.js",
+      "_Events-YoTlFD09.js",
       "_PageLayout-Dl_TDQIO.js",
       "_Stack-CmvCCi-v.js",
       "_ThemeContext-CbNhLSYV.js",
@@ -7466,7 +7466,7 @@
     ]
   },
   "src/pages/ShoppingList.tsx": {
-    "file": "assets/ShoppingList-CwO8QqJi.js",
+    "file": "assets/ShoppingList-1dStLW6j.js",
     "name": "ShoppingList",
     "src": "src/pages/ShoppingList.tsx",
     "isDynamicEntry": true,
@@ -7535,7 +7535,7 @@
     ]
   },
   "src/pages/SoundPad.tsx": {
-    "file": "assets/SoundPad-C784tzYu.js",
+    "file": "assets/SoundPad-BswYqngF.js",
     "name": "SoundPad",
     "src": "src/pages/SoundPad.tsx",
     "isDynamicEntry": true,
@@ -7553,7 +7553,7 @@
     ]
   },
   "src/pages/SoundSheet.tsx": {
-    "file": "assets/SoundSheet-D0bmHhMz.js",
+    "file": "assets/SoundSheet-CNlHOQpR.js",
     "name": "SoundSheet",
     "src": "src/pages/SoundSheet.tsx",
     "isDynamicEntry": true,
@@ -7566,8 +7566,8 @@
       "_kidsStore-Dz2hono3.js",
       "_LittleKit-BNVgcRyD.js",
       "_Reading-BXxdrO3X.js",
-      "_ToolHeader-Cz9BlfJw.js",
-      "_BarAction-DEpZStR4.js",
+      "_ToolHeader-By5ueVv1.js",
+      "_BarAction-CYxbqhF0.js",
       "_LittleVoiceControls-qFuQLYIM.js",
       "_AccessibilityContext-CA1fBrLg.js",
       "_UserContext-JQIBj110.js",
@@ -7620,7 +7620,7 @@
     ]
   },
   "src/pages/SpyWords.tsx": {
-    "file": "assets/SpyWords-auVh_RFi.js",
+    "file": "assets/SpyWords-iQVw92cB.js",
     "name": "SpyWords",
     "src": "src/pages/SpyWords.tsx",
     "isDynamicEntry": true,
@@ -7669,7 +7669,7 @@
     ]
   },
   "src/pages/StarBurrow.tsx": {
-    "file": "assets/StarBurrow-DXNfDf_4.js",
+    "file": "assets/StarBurrow-D5WcGXD4.js",
     "name": "StarBurrow",
     "src": "src/pages/StarBurrow.tsx",
     "isDynamicEntry": true,
@@ -7703,7 +7703,7 @@
     ]
   },
   "src/pages/StoryTrain.tsx": {
-    "file": "assets/StoryTrain-qRff6nrb.js",
+    "file": "assets/StoryTrain-DDtYsjem.js",
     "name": "StoryTrain",
     "src": "src/pages/StoryTrain.tsx",
     "isDynamicEntry": true,
@@ -7747,7 +7747,7 @@
     ]
   },
   "src/pages/Study.tsx": {
-    "file": "assets/Study-CQS3meBH.js",
+    "file": "assets/Study-DRkuy3eF.js",
     "name": "Study",
     "src": "src/pages/Study.tsx",
     "isDynamicEntry": true,
@@ -7757,8 +7757,8 @@
       "_gameSounds-Mjby651L.js",
       "_AdultGate-DYP151nY.js",
       "_kidsStore-Dz2hono3.js",
-      "_ToolHeader-Cz9BlfJw.js",
-      "_BarAction-DEpZStR4.js",
+      "_ToolHeader-By5ueVv1.js",
+      "_BarAction-CYxbqhF0.js",
       "_LittleVoiceControls-qFuQLYIM.js",
       "_AccessibilityContext-CA1fBrLg.js",
       "_UserContext-JQIBj110.js",
@@ -7866,7 +7866,7 @@
     ]
   },
   "src/pages/TapBand.tsx": {
-    "file": "assets/TapBand-Driw5raB.js",
+    "file": "assets/TapBand-CcWrPRz0.js",
     "name": "TapBand",
     "src": "src/pages/TapBand.tsx",
     "isDynamicEntry": true,
@@ -7978,7 +7978,7 @@
     ]
   },
   "src/pages/Toolkit.tsx": {
-    "file": "assets/Toolkit-ySSox1r4.js",
+    "file": "assets/Toolkit-CTAjbqYV.js",
     "name": "Toolkit",
     "src": "src/pages/Toolkit.tsx",
     "isDynamicEntry": true,
@@ -7986,10 +7986,10 @@
       "_chunk-zsgVPwQN.js",
       "index.html",
       "_ImageDrop-CIK7v16l.js",
-      "_SwatchPicker-G-9frcId.js",
+      "_SwatchPicker-CvPK3l6W.js",
       "_SwatchPreview-CEtM_lOu.js",
-      "_SymbolMaker-hH8Swrv7.js",
-      "_CropImageModal-DjyGPijb.js",
+      "_SymbolMaker-CbOWp7YX.js",
+      "_CropImageModal-Cgh88rb8.js",
       "_clipboardImage-Cx2Sku-l.js",
       "_exportSymbol-C3IY-56k.js",
       "_SymbolCanvas-CX1rIaF0.js",
@@ -8015,7 +8015,7 @@
       "_Modal-whXnylge.js",
       "_createSvgIcon-BzE9FlNk.js",
       "_build-BvnDuTrd.js",
-      "_ReactKonva-VD3b9UDs.js",
+      "_ReactKonva-wahpWaSF.js",
       "_esm-DsjC8tZe.js",
       "_chunk-EPOLDU6W-LQMasD15.js",
       "_jsx-runtime-shnjTBMD.js",
@@ -8099,7 +8099,7 @@
     ]
   },
   "src/pages/Trivia.tsx": {
-    "file": "assets/Trivia-CbTp2JNn.js",
+    "file": "assets/Trivia-C_cikAfa.js",
     "name": "Trivia",
     "src": "src/pages/Trivia.tsx",
     "isDynamicEntry": true,
@@ -8147,7 +8147,7 @@
     ]
   },
   "src/pages/TriviaLive.tsx": {
-    "file": "assets/TriviaLive-CVGQe51_.js",
+    "file": "assets/TriviaLive-CUliB89J.js",
     "name": "TriviaLive",
     "src": "src/pages/TriviaLive.tsx",
     "isDynamicEntry": true,
@@ -8189,7 +8189,7 @@
     ]
   },
   "src/pages/VisualTimer.tsx": {
-    "file": "assets/VisualTimer-Pl4sUJ4G.js",
+    "file": "assets/VisualTimer-BSyNsFIS.js",
     "name": "VisualTimer",
     "src": "src/pages/VisualTimer.tsx",
     "isDynamicEntry": true,
@@ -8228,7 +8228,7 @@
     ]
   },
   "src/pages/Wall.tsx": {
-    "file": "assets/Wall-BrtDkmjw.js",
+    "file": "assets/Wall-DWSqCRbq.js",
     "name": "Wall",
     "src": "src/pages/Wall.tsx",
     "isDynamicEntry": true,
@@ -8367,7 +8367,7 @@
     ]
   },
   "src/pages/WormCity.tsx": {
-    "file": "assets/WormCity-DiyDIJCK.js",
+    "file": "assets/WormCity-CPDGTX9G.js",
     "name": "WormCity",
     "src": "src/pages/WormCity.tsx",
     "isDynamicEntry": true,
@@ -8375,7 +8375,7 @@
       "_chunk-zsgVPwQN.js",
       "_GameKit-vgNmOJOE.js",
       "_gameSounds-Mjby651L.js",
-      "_WormCity-Cg1hTwDm.js",
+      "_WormCity-DuBdtwx9.js",
       "_Fireworks-Ck9F2Zqr.js",
       "_UserContext-JQIBj110.js",
       "_wormLoop-HkBbDFam.js",
@@ -8388,7 +8388,7 @@
     ]
   },
   "src/pages/WormCityTV.tsx": {
-    "file": "assets/WormCityTV-Cp5ulLBz.js",
+    "file": "assets/WormCityTV-C6rLUwzd.js",
     "name": "WormCityTV",
     "src": "src/pages/WormCityTV.tsx",
     "isDynamicEntry": true,
@@ -8396,7 +8396,7 @@
       "_chunk-zsgVPwQN.js",
       "_GameKit-vgNmOJOE.js",
       "_gameSounds-Mjby651L.js",
-      "_WormCity-Cg1hTwDm.js",
+      "_WormCity-DuBdtwx9.js",
       "_Fireworks-Ck9F2Zqr.js",
       "_HostModeContext-DeD0rzdJ.js",
       "_UserContext-JQIBj110.js",
@@ -8414,7 +8414,7 @@
     ]
   },
   "src/pages/WritersDesk.tsx": {
-    "file": "assets/WritersDesk-eoGAGlT1.js",
+    "file": "assets/WritersDesk-DrcPBp3O.js",
     "name": "WritersDesk",
     "src": "src/pages/WritersDesk.tsx",
     "isDynamicEntry": true,
@@ -8464,7 +8464,7 @@
     ]
   },
   "src/pages/tools/BrandKit.tsx": {
-    "file": "assets/BrandKit-CTPnGnYC.js",
+    "file": "assets/BrandKit-OAbgKqzk.js",
     "name": "BrandKit",
     "src": "src/pages/tools/BrandKit.tsx",
     "isDynamicEntry": true,
@@ -8472,10 +8472,10 @@
       "_chunk-zsgVPwQN.js",
       "index.html",
       "_ImageDrop-CIK7v16l.js",
-      "_SwatchPicker-G-9frcId.js",
+      "_SwatchPicker-CvPK3l6W.js",
       "_SwatchPreview-CEtM_lOu.js",
-      "_SymbolMaker-hH8Swrv7.js",
-      "_CropImageModal-DjyGPijb.js",
+      "_SymbolMaker-CbOWp7YX.js",
+      "_CropImageModal-Cgh88rb8.js",
       "_clipboardImage-Cx2Sku-l.js",
       "_exportSymbol-C3IY-56k.js",
       "_SymbolCanvas-CX1rIaF0.js",
@@ -8494,7 +8494,7 @@
       "_Modal-whXnylge.js",
       "_build-BvnDuTrd.js",
       "_jszip.min-fbmFC1vP.js",
-      "_ReactKonva-VD3b9UDs.js",
+      "_ReactKonva-wahpWaSF.js",
       "_chunk-EPOLDU6W-LQMasD15.js",
       "_jsx-runtime-shnjTBMD.js",
       "_react-CpO0XFEz.js"
@@ -8555,7 +8555,7 @@
     ]
   },
   "src/pages/tools/ColourStudioPage.tsx": {
-    "file": "assets/ColourStudioPage-BDHXgnPL.js",
+    "file": "assets/ColourStudioPage-FTYIUSaO.js",
     "name": "ColourStudioPage",
     "src": "src/pages/tools/ColourStudioPage.tsx",
     "isDynamicEntry": true,
@@ -8568,12 +8568,12 @@
       "_kidsStore-Dz2hono3.js",
       "_PatternMaker-QmzC6qHb.js",
       "_ImageDrop-CIK7v16l.js",
-      "_SwatchEditor-JYSYebSM.js",
-      "_SwatchPicker-G-9frcId.js",
+      "_SwatchEditor-CgWOWxAd.js",
+      "_SwatchPicker-CvPK3l6W.js",
       "_SwatchPreview-CEtM_lOu.js",
       "_clipboardImage-Cx2Sku-l.js",
       "_exportSymbol-C3IY-56k.js",
-      "_ToolHeader-Cz9BlfJw.js",
+      "_ToolHeader-By5ueVv1.js",
       "_LittleVoiceControls-qFuQLYIM.js",
       "_AccessibilityContext-CA1fBrLg.js",
       "_UserContext-JQIBj110.js",
@@ -8600,7 +8600,7 @@
     ]
   },
   "src/pages/tools/FileOrganizer.tsx": {
-    "file": "assets/FileOrganizer-CcZWvfX7.js",
+    "file": "assets/FileOrganizer-wwePvKGM.js",
     "name": "FileOrganizer",
     "src": "src/pages/tools/FileOrganizer.tsx",
     "isDynamicEntry": true,
@@ -8625,7 +8625,7 @@
       "_MenuItem-CbPdmCNA.js",
       "_Paper-B0PWf5PJ.js",
       "_Tooltip-BJKjN-ST.js",
-      "_Stack-w7S1U4OG.js",
+      "_Stack-DAYio-EY.js",
       "_createSvgIcon-BzE9FlNk.js",
       "_Switch-BvU93tiA.js",
       "_ToggleButtonGroup-DjPTBxdr.js",
@@ -8637,7 +8637,7 @@
     ]
   },
   "src/pages/tools/ImageConverter.tsx": {
-    "file": "assets/ImageConverter-BOCWNJzY.js",
+    "file": "assets/ImageConverter-zyNKF65x.js",
     "name": "ImageConverter",
     "src": "src/pages/tools/ImageConverter.tsx",
     "isDynamicEntry": true,
@@ -8664,7 +8664,7 @@
       "_MenuItem-CbPdmCNA.js",
       "_Paper-B0PWf5PJ.js",
       "_Slider-C2D9u6ep.js",
-      "_Stack-w7S1U4OG.js",
+      "_Stack-DAYio-EY.js",
       "_ToggleButtonGroup-DjPTBxdr.js",
       "_Typography-zcp_KDa7.js",
       "_chunk-EPOLDU6W-LQMasD15.js",
@@ -8689,7 +8689,7 @@
     ]
   },
   "src/pages/tools/PatternMakerPage.tsx": {
-    "file": "assets/PatternMakerPage-BKLFSuAQ.js",
+    "file": "assets/PatternMakerPage-CYYkQK3w.js",
     "name": "PatternMakerPage",
     "src": "src/pages/tools/PatternMakerPage.tsx",
     "isDynamicEntry": true,
@@ -8703,11 +8703,11 @@
       "_kidsStore-Dz2hono3.js",
       "_PatternMaker-QmzC6qHb.js",
       "_ImageDrop-CIK7v16l.js",
-      "_SwatchToolsNav-CYd0lwYA.js",
+      "_SwatchToolsNav-CZzR-JTF.js",
       "_clipboardImage-Cx2Sku-l.js",
       "_exportSymbol-C3IY-56k.js",
-      "_ToolHeader-Cz9BlfJw.js",
-      "_BarAction-DEpZStR4.js",
+      "_ToolHeader-By5ueVv1.js",
+      "_BarAction-CYxbqhF0.js",
       "_LittleVoiceControls-qFuQLYIM.js",
       "_AccessibilityContext-CA1fBrLg.js",
       "_UserContext-JQIBj110.js",
@@ -8741,14 +8741,14 @@
       "_DialogTitle-XfBfg2nz.js",
       "_TextField-fT3dYSsb.js",
       "_MenuItem-CbPdmCNA.js",
-      "_Stack-w7S1U4OG.js",
+      "_Stack-DAYio-EY.js",
       "_Typography-zcp_KDa7.js",
       "_build-BvnDuTrd.js",
       "_jsx-runtime-shnjTBMD.js",
       "_react-CpO0XFEz.js"
     ],
     "dynamicImports": [
-      "_SymbolMaker-hH8Swrv7.js"
+      "_SymbolMaker-CbOWp7YX.js"
     ],
     "css": [
       "assets/PatternMakerPage-CkjfPKPe.css",
@@ -8756,7 +8756,7 @@
     ]
   },
   "src/pages/tools/PdfViewer.tsx": {
-    "file": "assets/PdfViewer-wFQUknT0.js",
+    "file": "assets/PdfViewer-CtLC99dm.js",
     "name": "PdfViewer",
     "src": "src/pages/tools/PdfViewer.tsx",
     "isDynamicEntry": true,
@@ -8780,7 +8780,7 @@
       "_LinearProgress-o57aIEAk.js",
       "_Paper-B0PWf5PJ.js",
       "_Tooltip-BJKjN-ST.js",
-      "_Stack-w7S1U4OG.js",
+      "_Stack-DAYio-EY.js",
       "_createSvgIcon-BzE9FlNk.js",
       "_Typography-zcp_KDa7.js",
       "_chunk-EPOLDU6W-LQMasD15.js",
@@ -8789,7 +8789,7 @@
     ]
   },
   "src/pages/tools/Projects.tsx": {
-    "file": "assets/Projects-CaS61zXR.js",
+    "file": "assets/Projects-3kQSROYa.js",
     "name": "Projects",
     "src": "src/pages/tools/Projects.tsx",
     "isDynamicEntry": true,
@@ -8801,8 +8801,8 @@
       "_AdultGate-DYP151nY.js",
       "_kidsStore-Dz2hono3.js",
       "_ProjectSky-BF2-tjnj.js",
-      "_ToolHeader-Cz9BlfJw.js",
-      "_BarAction-DEpZStR4.js",
+      "_ToolHeader-By5ueVv1.js",
+      "_BarAction-CYxbqhF0.js",
       "_LittleVoiceControls-qFuQLYIM.js",
       "_AccessibilityContext-CA1fBrLg.js",
       "_ThemeContext-CbNhLSYV.js",
@@ -8843,12 +8843,12 @@
       "_MenuItem-CbPdmCNA.js",
       "_Paper-B0PWf5PJ.js",
       "_Tooltip-BJKjN-ST.js",
-      "_Stack-w7S1U4OG.js",
+      "_Stack-DAYio-EY.js",
       "_createSvgIcon-BzE9FlNk.js",
       "_ToggleButtonGroup-DjPTBxdr.js",
       "_Typography-zcp_KDa7.js",
       "_build-BvnDuTrd.js",
-      "_ReactKonva-VD3b9UDs.js",
+      "_ReactKonva-wahpWaSF.js",
       "_chunk-EPOLDU6W-LQMasD15.js",
       "_jsx-runtime-shnjTBMD.js",
       "_react-CpO0XFEz.js"
@@ -8858,7 +8858,7 @@
     ]
   },
   "src/pages/tools/QrMaker.tsx": {
-    "file": "assets/QrMaker-CHmAOqwU.js",
+    "file": "assets/QrMaker-DfeuRFTC.js",
     "name": "QrMaker",
     "src": "src/pages/tools/QrMaker.tsx",
     "isDynamicEntry": true,
@@ -8884,7 +8884,7 @@
     ]
   },
   "src/pages/tools/ResonanceRoom.tsx": {
-    "file": "assets/ResonanceRoom-a11CXVwA.js",
+    "file": "assets/ResonanceRoom-BdbG7zsj.js",
     "name": "ResonanceRoom",
     "src": "src/pages/tools/ResonanceRoom.tsx",
     "isDynamicEntry": true,
@@ -8895,7 +8895,7 @@
       "_gameSounds-Mjby651L.js",
       "_AdultGate-DYP151nY.js",
       "_kidsStore-Dz2hono3.js",
-      "_ToolHeader-Cz9BlfJw.js",
+      "_ToolHeader-By5ueVv1.js",
       "_LittleVoiceControls-qFuQLYIM.js",
       "_AccessibilityContext-CA1fBrLg.js",
       "_UserContext-JQIBj110.js",
@@ -8915,7 +8915,7 @@
     ]
   },
   "src/pages/tools/RoomPreview.tsx": {
-    "file": "assets/RoomPreview-CI1hEWE1.js",
+    "file": "assets/RoomPreview-B2n9NHDu.js",
     "name": "RoomPreview",
     "src": "src/pages/tools/RoomPreview.tsx",
     "isDynamicEntry": true,
@@ -8929,14 +8929,14 @@
       "_kidsStore-Dz2hono3.js",
       "_drawnSheet-BeVqHVAk.js",
       "_ImageDrop-CIK7v16l.js",
-      "_SwatchPicker-G-9frcId.js",
+      "_SwatchPicker-CvPK3l6W.js",
       "_SwatchPreview-CEtM_lOu.js",
-      "_SwatchToolsNav-CYd0lwYA.js",
+      "_SwatchToolsNav-CZzR-JTF.js",
       "_describe-DuqMM3ur.js",
       "_clipboardImage-Cx2Sku-l.js",
       "_exportSymbol-C3IY-56k.js",
-      "_ToolHeader-Cz9BlfJw.js",
-      "_BarAction-DEpZStR4.js",
+      "_ToolHeader-By5ueVv1.js",
+      "_BarAction-CYxbqhF0.js",
       "_LittleVoiceControls-qFuQLYIM.js",
       "_AccessibilityContext-CA1fBrLg.js",
       "_ThemeContext-CbNhLSYV.js",
@@ -9002,7 +9002,7 @@
       "_MenuItem-CbPdmCNA.js",
       "_Tooltip-BJKjN-ST.js",
       "_Slider-C2D9u6ep.js",
-      "_Stack-w7S1U4OG.js",
+      "_Stack-DAYio-EY.js",
       "_createSvgIcon-BzE9FlNk.js",
       "_ToggleButtonGroup-DjPTBxdr.js",
       "_Toolbar-C3rNqLwg.js",
@@ -9021,7 +9021,7 @@
     ]
   },
   "src/pages/tools/SignMaker.tsx": {
-    "file": "assets/SignMaker-B7NClcON.js",
+    "file": "assets/SignMaker-BkumbSlB.js",
     "name": "SignMaker",
     "src": "src/pages/tools/SignMaker.tsx",
     "isDynamicEntry": true,
@@ -9032,7 +9032,7 @@
       "_gameSounds-Mjby651L.js",
       "_AdultGate-DYP151nY.js",
       "_kidsStore-Dz2hono3.js",
-      "_ToolHeader-Cz9BlfJw.js",
+      "_ToolHeader-By5ueVv1.js",
       "_LittleVoiceControls-qFuQLYIM.js",
       "_AccessibilityContext-CA1fBrLg.js",
       "_UserContext-JQIBj110.js",
@@ -9072,7 +9072,7 @@
       "_ToggleButtonGroup-DjPTBxdr.js",
       "_Toolbar-C3rNqLwg.js",
       "_Typography-zcp_KDa7.js",
-      "_ReactKonva-VD3b9UDs.js",
+      "_ReactKonva-wahpWaSF.js",
       "_chunk-EPOLDU6W-LQMasD15.js",
       "_jsx-runtime-shnjTBMD.js",
       "_react-CpO0XFEz.js"
@@ -9102,7 +9102,7 @@
     ]
   },
   "src/pages/tools/Swatches.tsx": {
-    "file": "assets/Swatches-DalFApQ-.js",
+    "file": "assets/Swatches-DN-eDlrU.js",
     "name": "Swatches",
     "src": "src/pages/tools/Swatches.tsx",
     "isDynamicEntry": true,
@@ -9114,13 +9114,13 @@
       "_kidsStore-Dz2hono3.js",
       "_PatternMaker-QmzC6qHb.js",
       "_ImageDrop-CIK7v16l.js",
-      "_SwatchEditor-JYSYebSM.js",
+      "_SwatchEditor-CgWOWxAd.js",
       "_SwatchPreview-CEtM_lOu.js",
-      "_SwatchToolsNav-CYd0lwYA.js",
+      "_SwatchToolsNav-CZzR-JTF.js",
       "_describe-DuqMM3ur.js",
       "_clipboardImage-Cx2Sku-l.js",
-      "_ToolHeader-Cz9BlfJw.js",
-      "_BarAction-DEpZStR4.js",
+      "_ToolHeader-By5ueVv1.js",
+      "_BarAction-CYxbqhF0.js",
       "_LittleVoiceControls-qFuQLYIM.js",
       "_AccessibilityContext-CA1fBrLg.js",
       "_UserContext-JQIBj110.js",
@@ -9149,7 +9149,7 @@
     ]
   },
   "src/pages/tools/Vase.tsx": {
-    "file": "assets/Vase-DsbDwSR7.js",
+    "file": "assets/Vase-BZKirNF-.js",
     "name": "Vase",
     "src": "src/pages/tools/Vase.tsx",
     "isDynamicEntry": true,
@@ -9161,9 +9161,9 @@
       "_AdultGate-DYP151nY.js",
       "_kidsStore-Dz2hono3.js",
       "_ProjectSky-BF2-tjnj.js",
-      "_ToolHeader-Cz9BlfJw.js",
-      "_BarAction-DEpZStR4.js",
-      "_BottomSheet-CrmcHpqA.js",
+      "_ToolHeader-By5ueVv1.js",
+      "_BarAction-CYxbqhF0.js",
+      "_BottomSheet-BkZ_P2y_.js",
       "_ColorField-DNH80P-G.js",
       "_ConfirmDialog-DnVaYDiY.js",
       "_LittleVoiceControls-qFuQLYIM.js",
@@ -9226,14 +9226,14 @@
       "_MenuItem-CbPdmCNA.js",
       "_Paper-B0PWf5PJ.js",
       "_Tooltip-BJKjN-ST.js",
-      "_Stack-w7S1U4OG.js",
+      "_Stack-DAYio-EY.js",
       "_createSvgIcon-BzE9FlNk.js",
       "_Tabs-C8kiO6Sb.js",
       "_ToggleButtonGroup-DjPTBxdr.js",
       "_Typography-zcp_KDa7.js",
       "_build-BvnDuTrd.js",
       "_jszip.min-fbmFC1vP.js",
-      "_ReactKonva-VD3b9UDs.js",
+      "_ReactKonva-wahpWaSF.js",
       "_quill.snow-DXy50yM4.js",
       "_chunk-EPOLDU6W-LQMasD15.js",
       "_jsx-runtime-shnjTBMD.js",
