@@ -1,1 +1,0 @@
-import"./useGameTransport-tbbmhvLb.js";import{c as e}from"./index-KpCP5pmG.js";function t(t){return e(t)}export{t};
