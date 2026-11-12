@@ -1,0 +1,1 @@
+import{o as e}from"./rolldown-runtime-BCiCTKAo.js";import{t}from"./react-CAfMLIKe.js";var n=e(t());function r(e){let{controlled:t,default:r,name:i,state:a=`value`}=e,{current:o}=n.useRef(t!==void 0),[s,c]=n.useState(r);return[o?t:s,n.useCallback(e=>{o||c(e)},[])]}export{r as t};

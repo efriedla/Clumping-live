@@ -1,1 +1,0 @@
-import{t as e}from"./jsx-runtime-shnjTBMD.js";import{t}from"./createSvgIcon-BzE9FlNk.js";var n=t((0,e().jsx)(`path`,{d:`M8 5v14l11-7z`}),`PlayArrow`);export{n as t};

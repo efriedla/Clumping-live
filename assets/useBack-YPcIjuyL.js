@@ -1,0 +1,1 @@
+import{o as e}from"./rolldown-runtime-BCiCTKAo.js";import{t}from"./react-CAfMLIKe.js";import{c as n}from"./chunk-6KYCQHYJ-xYd0IpVm.js";var r=e(t());function i(e){let t=n();return(0,r.useCallback)(()=>{(window.history.state?.idx??0)>0?t(-1):t(e,{replace:!0})},[t,e])}export{i as t};

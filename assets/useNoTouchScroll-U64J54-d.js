@@ -1,0 +1,1 @@
+import{o as e}from"./rolldown-runtime-BCiCTKAo.js";import{t}from"./react-CAfMLIKe.js";var n=e(t());function r(e){(0,n.useEffect)(()=>{let t=e.current;if(!t)return;let n=e=>{e.cancelable&&e.preventDefault()};return t.addEventListener(`touchmove`,n,{passive:!1}),()=>t.removeEventListener(`touchmove`,n)},[e])}export{r as t};

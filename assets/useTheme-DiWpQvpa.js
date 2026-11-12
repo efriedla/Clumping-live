@@ -1,0 +1,1 @@
+import"./rolldown-runtime-BCiCTKAo.js";import{t as e}from"./react-CAfMLIKe.js";import{a as t}from"./zero-styled-YEsHht6h.js";import{n}from"./DefaultPropsProvider-Dg0QN0zH.js";e();function r(){let e=t(n);return e.$$material||e}export{r as t};

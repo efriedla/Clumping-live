@@ -1,0 +1,1 @@
+import{l as e,u as t}from"./createSvgIcon-DN8h6aGO.js";function n(e){return t(`MuiListItemText`,e)}var r=e(`MuiListItemText`,[`root`,`multiline`,`dense`,`inset`,`primary`,`secondary`]);export{r as n,n as t};

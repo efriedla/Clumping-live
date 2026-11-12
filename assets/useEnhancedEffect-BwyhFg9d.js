@@ -1,0 +1,1 @@
+import{o as e}from"./rolldown-runtime-BCiCTKAo.js";import{t}from"./react-CAfMLIKe.js";var n=e(t()),r=typeof window<`u`?n.useLayoutEffect:n.useEffect;export{r as t};

@@ -1,1 +1,0 @@
-import{t as e}from"./jsx-runtime-shnjTBMD.js";import{t}from"./createSvgIcon-BzE9FlNk.js";var n=t((0,e().jsx)(`path`,{d:`M7.41 15.41 12 10.83l4.59 4.58L18 14l-6-6-6 6z`}),`KeyboardArrowUp`);export{n as t};
